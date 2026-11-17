@@ -1,4 +1,4 @@
-# Título: Proyecto 3 - Interfaz Web con Streamlit (app.py)
+# Título: Proyecto 3 - Interfaz Web con Streamlit
 # Autor: Diego Vázquez Hernández
 # Fecha: 16/11/2026
 # Descripción: Interfaz web en Streamlit para administrar la red de nodos.
